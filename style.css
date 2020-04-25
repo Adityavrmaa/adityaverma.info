@@ -433,30 +433,23 @@ html {
     }
 }
 
-
-}
 @media screen and (min-width: 576px) {
     .display-3 {
         font-size: 25px;
         background: #000;
     }
-    
     .typeWriter span {
         font-size: 30px;
     }
-    
     .rightside img {
         display: none;
     }
-    
     .socailfont {
         margin-right: 110px;
     }
-    
     .about-image {
         width: 100%;
     }
-    
     .main_title {
         text-align: center;
         width: 100%;
